@@ -1,6 +1,6 @@
-## Olá, eu me chamo Pedro Henrique👋
+## Hello, my name is Pedro Henrique 👋
 
-### Tecnologias 
+### Technologies
 
 <div style="display: inline_block"><br />
     <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -17,4 +17,3 @@
 
 [![mynameismenta's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameismenta&show_icons=true&theme=dark)](https://github.com/mynameismenta/github-readme-stats)
 
-Simples desenvolvedor apaixonado pelo mundo da programação.
